@@ -1,6 +1,5 @@
 /*
 Name : Cian Dunne
- Student Number: 20091471
  
  Brief description of the game developed: 
  Player is initially prompted to enter how many rounds they wish to partake in.
