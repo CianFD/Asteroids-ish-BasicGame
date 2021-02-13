@@ -2,10 +2,6 @@
 
 Name : Cian Dunne
 
-Student Number: 20091471
-
-Link to Video:                https://youtu.be/LA_iMIZF5uk
-
 
 Part A - Mark (5 /5)
 -----------------------------
